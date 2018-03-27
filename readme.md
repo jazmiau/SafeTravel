@@ -5,4 +5,4 @@ Safe Travel es una plataforma de venta y reservas de pasajes de autobuses interu
 ![safe1](https://user-images.githubusercontent.com/32287743/37949308-7229422e-316a-11e8-853a-0d7a44a24263.png)
 
 ## Desarrollado para
-[Laboratoria Chile]
+[Laboratoria Chile](https://marvelapp.com/136jga16/screen/38086057)

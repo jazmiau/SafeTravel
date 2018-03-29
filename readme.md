@@ -9,10 +9,6 @@ Safe Travel es una plataforma de venta y reservas de pasajes de autobuses interu
 
 ### DESCUBRIMIENTO E INVESTIGACIÓN
 
-Planeamiento
-
-Division de tareas en el equipo:
-
 User Research
 
 ### Entrevistas

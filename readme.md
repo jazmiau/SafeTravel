@@ -71,6 +71,3 @@ https://invis.io/Q5FJSUF2YNC#/275899506_Boleta
 https://marvelapp.com/136jga16/screen/38086057
 
 ![safetravel1](https://user-images.githubusercontent.com/32287743/38066079-cbe95cae-32dc-11e8-943a-33fa63a236e2.png)
-
-
-![safe1](https://user-images.githubusercontent.com/32287743/37949308-7229422e-316a-11e8-853a-0d7a44a24263.png)
